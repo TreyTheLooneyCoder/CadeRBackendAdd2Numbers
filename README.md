@@ -15,4 +15,5 @@ Things to submit:
 Code, zipped
 Github link in comments
 
-#### Peer Review: 
+#### Peer Review: Alan Batres
+Comment:The Code works perfectly fine when I add my inputs and correctly adds them together no errors good Job!
